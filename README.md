@@ -108,7 +108,7 @@ The project is designed to be beginner-friendly and introduces key Solidity conc
 2. Deploy the contract to an Ethereum testnet (e.g., Goerli) or mainnet using Remix or a tool like Hardhat/Truffle.
 3. Interact with the contract using Remix or a custom frontend.
 
-### Usage
+## Usage
 
 ### Step 1: Add Candidates
 
@@ -125,7 +125,7 @@ The project is designed to be beginner-friendly and introduces key Solidity conc
 - Call `getCandidate(1)` to see Alice's vote count.
 - Call `getCandidate(2)` to see Bob's vote count.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
@@ -144,11 +144,11 @@ Contributions are welcome! If you'd like to contribute, please follow these step
    ```
 5. Open a pull request.
 
-### License
+## License
 
 This project is licensed under the MIT License. See the [`LICENSE`](./LICENSE) file for details.
 
-### Acknowledgements
+## Acknowledgements
 
 This project was created as part of learning Solidity and Ethereum development.
 
