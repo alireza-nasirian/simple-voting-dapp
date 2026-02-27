@@ -9,6 +9,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: JFrog
     steps:
       - name: Checkout
         uses: actions/checkout@v4
